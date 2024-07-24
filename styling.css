@@ -1,0 +1,17 @@
+#a{
+    color:red;
+}
+.d{
+    font-size: large;
+    /*text-align: center;*/
+}
+*{
+    background-color: yellowgreen;
+}
+h1,h6{
+    text-align: right;
+}
+h7{
+    color: blue;
+    font-size: 30px;
+}
