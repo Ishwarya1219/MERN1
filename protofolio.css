@@ -227,9 +227,6 @@ margin-left: 5%;
 .pro-1,.pro-2{
   height: 60vh;
   width: 100vh;
- 
- 
- 
   
 }
 .pro-2{
@@ -238,7 +235,7 @@ margin-left: 5%;
 .pro-cont{
   font-size: 2.5rem;
   margin-left:20% ;
-  color: dimgrey;
+  color:dimgray;
 
 } 
 .pro-1 li,.pro-2 li{
